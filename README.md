@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leuris Andres de los Santos Castillo
 - 👀 I’m interested in front-end & back-end development
 - 🌱 I’m currently learning: HTML & CSS
-- Tecnologies I alredy know: C#, SQL, JAVA
+- 👨‍💻 Tecnologies I alredy know: C#, SQL, JAVA
 - 📫 How to reach me https://www.linkedin.com/in/leuris-de-los-santos-728487211/
 
 <!---
